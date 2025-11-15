@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+Agricultural crop yield consistency modeling project for pre-credit scoring. This project analyzes SAFEX and StatsSA data to predict crop yields and assess agricultural credit risk.
 
 ## Project Organization
 
@@ -58,4 +58,3 @@ A short description of the project.
 ```
 
 --------
-
