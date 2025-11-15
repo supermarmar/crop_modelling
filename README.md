@@ -6,6 +6,8 @@
 
 A comprehensive agricultural analytics project that develops a **Yield Consistency (YC) scoring system** for pre-credit assessment in South African agriculture. This project analyzes historical SAFEX (South African Futures Exchange) and StatsSA data to predict crop yields and quantify agricultural production risk for financial institutions.
 
+[View Repository →](https://github.com/supermarmar/crop_modelling)
+
 ## 🎯 Project Overview
 
 The core objective is to create a data-driven credit scoring model that evaluates a farmer's likelihood of achieving their projected crop yields. The system generates a **Yield Consistency Score (0-35 points)** that combines:
@@ -291,3 +293,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Agricultural industry experts for domain knowledge and validation
 
 --------
+
